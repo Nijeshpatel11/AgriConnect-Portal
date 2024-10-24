@@ -83,5 +83,23 @@ With continued advancements in machine learning and IoT, the platform is poised 
 
 ### Digital billing history
 
-![Dhh](https://user-images.githubusercontent.com/83646676/227990730-0ec07b40-c74e-455f-9637-d7ac4406fbf8.png)
+## 🎬Video demo of  Ui
+
+https://github.com/user-attachments/assets/14786b03-2feb-4033-b9c5-1c3f0c39699d
+
+
+https://github.com/user-attachments/assets/897324ca-f048-472c-9ef7-22b1223b4a64
+
+
+https://github.com/user-attachments/assets/ecd7f525-0338-42dc-acbb-bbdcc6f05dda
+
+
+https://github.com/user-attachments/assets/b2a8d6c7-7257-4ccf-99b1-5261ca4ad4aa
+
+
+https://github.com/user-attachments/assets/e2961dc6-fe70-40e2-a041-ae108451e493
+
+
+https://github.com/user-attachments/assets/f025bd38-8e85-4a2c-b2ac-20575e1e5d9d
+
 
